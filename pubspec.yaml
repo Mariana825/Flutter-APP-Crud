@@ -39,6 +39,9 @@ dependencies:
   xxf_isar_flutter_libs: ^3.1.0+3
   #para obtener la ruta donde guardar la base de datos
   path_provider: ^2.1.0
+  
+  image_picker: ^1.1.2
+  path: ^1.9.0
 
   cupertino_icons: ^1.0.8
   shared_preferences: ^2.5.5
